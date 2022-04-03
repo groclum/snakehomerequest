@@ -1,2 +1,2 @@
-# snakehomerequest
+# snakehomequest
 snake remake for android
