@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Assets/ARCADE MODE THUMB-02.png" type="Texture" id=1]
+[ext_resource path="res://Scripts/arcademode.gd" type="Script" id=2]
+
+[node name="arcademode" type="TouchScreenButton"]
+scale = Vector2( 0.515337, 0.515337 )
+normal = ExtResource( 1 )
+script = ExtResource( 2 )
