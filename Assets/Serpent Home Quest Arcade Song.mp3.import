@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Serpent Home Quest Arcade Song.mp3-ac004e0a3b92b2f3a80e92ee827d5e5e.mp3str"
+
+[deps]
+
+source_file="res://Assets/Serpent Home Quest Arcade Song.mp3"
+dest_files=[ "res://.import/Serpent Home Quest Arcade Song.mp3-ac004e0a3b92b2f3a80e92ee827d5e5e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

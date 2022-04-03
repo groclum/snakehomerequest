@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Serpent Home Quest Intro Song Mastered.mp3-e9b5b07da58e582b517fb296227c2893.mp3str"
+
+[deps]
+
+source_file="res://Assets/Serpent Home Quest Intro Song Mastered.mp3"
+dest_files=[ "res://.import/Serpent Home Quest Intro Song Mastered.mp3-e9b5b07da58e582b517fb296227c2893.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
